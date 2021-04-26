@@ -17,7 +17,7 @@
 [webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqlplaylist]
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][cognosplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
@@ -25,3 +25,4 @@
 <br />
 
 [sqlplaylist]: https://www.youtube.com/watch?v=Dy2uXVqUPAs&list=PLaz3Ms051BAm90FMvntoC7rWOUI7vjF7k
+[cognosplaylist]: https://www.youtube.com/watch?v=G4VfyBM2rZY&list=PLaz3Ms051BAlOgW69EbVdlbOLYcRwmboB
