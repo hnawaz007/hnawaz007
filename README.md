@@ -19,6 +19,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"  title="Terminal"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  title="VS Code"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/hnawaz007/hnawaz007/blob/main/img/aws.png?raw=true"  title="Amazon Web Services"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/hnawaz007/hnawaz007/blob/main/img/power-bi.png?raw=true"  title="Power BI"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/hnawaz007/hnawaz007/blob/main/img/c.png?raw=true"  title="C#"/>
 
 <br />
 <br />
