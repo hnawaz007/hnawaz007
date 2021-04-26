@@ -12,7 +12,7 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqlplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://github.com/hnawaz007/hnawaz007/blob/main/img/sqlserver_0.jpg" />][sqlplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gitplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/hnawaz007/hnawaz007/blob/main/img/IBM-cognos.png?raw=true"/>][cognosplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/hnawaz007/hnawaz007/blob/main/img/python.png?raw=true"/>][pythonplaylist]
