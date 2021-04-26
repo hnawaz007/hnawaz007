@@ -1,8 +1,5 @@
 ### Hi there, I am Haq 👋
 
-<!--
-**hnawaz007/hnawaz007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm a Father, Developer, and Data Enthusiast!!
 
 - 🔭 I’m currently working on AWS Cloud and BI iniatives...
