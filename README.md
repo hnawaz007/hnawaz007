@@ -41,11 +41,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Text to speech in python. Convert any text to Speech](https://www.youtube.com/watch?v=SmvZUP1816c&t=10s)
-- [Power BI dashboard | solving real world problems](https://www.youtube.com/watch?v=YmkKzy5rd2Y&t=30s)
-- [Cognos Analytics Continuous Integration and Continuous Deployment (CI/CD)](https://www.youtube.com/watch?v=wQEBRrmaOOQ)
-- [Real-Time ETL (ELT) with Kafka connect; change data capture from mysql to sql server.](https://www.youtube.com/watch?v=gPvwvkCVSnY&t=321s)
-- [Git and BitBucket workflow overview](https://www.youtube.com/watch?v=FM4PmB_UYJE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC8aox1k3cd00tTKuBNt4tMw)
