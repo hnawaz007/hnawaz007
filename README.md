@@ -43,6 +43,9 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ➡️ [more videos...](https://www.youtube.com/channel/UC8aox1k3cd00tTKuBNt4tMw)
 
 ---
