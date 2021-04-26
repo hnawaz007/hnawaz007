@@ -20,7 +20,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  title="VS Code"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/hnawaz007/hnawaz007/blob/main/img/aws.png?raw=true"  title="Amazon Web Services"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/hnawaz007/hnawaz007/blob/main/img/power-bi.png?raw=true"  title="Power BI"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/hnawaz007/hnawaz007/blob/main/img/791866447147ee53f4e65dffdf90d12b.png?raw=true"  title="C#"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/hnawaz007/hnawaz007/blob/main/img/c.png?raw=true"  title="C#"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS"/>
 <img align="left" alt="CSS3" width="26px" src="https://github.com/hnawaz007/hnawaz007/blob/main/img/net-logo.png" title="ASP .NET"/>
