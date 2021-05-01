@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [IBM Cognos Github integration. How to automate Cognos Deployment with GitHub.](https://www.youtube.com/watch?v=IkeVMfEgSVY)
 - [Text to speech in python. Convert any text to Speech.](https://www.youtube.com/watch?v=SmvZUP1816c)
 - [Python text to image (with two lines of code)](https://www.youtube.com/watch?v=53YexsKXdnM)
 - [Python data analysis practical examples (Reading SQL/Excel, Sorting, Groupby, plotting, Matplotlib)](https://www.youtube.com/watch?v=7waZpEaS7Y8)
 - [Power BI dashboard: solving real world problems by defining and answerings data analysis questions.](https://www.youtube.com/watch?v=YmkKzy5rd2Y)
-- [Cognos Analytics Continuous Integration and Continuous Deployment (CI/CD)](https://www.youtube.com/watch?v=wQEBRrmaOOQ)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
