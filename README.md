@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Automate Excel reports with Python | Query database with Pandas](https://www.youtube.com/watch?v=ks4bJcwWK3o)
 - [Python Voice Assistant - Part 1 | Build Your Own Virtual Assistant in Python](https://www.youtube.com/watch?v=LLZQT9-0l_8)
 - [IBM Cognos Github integration. How to automate Cognos Deployment with GitHub.](https://www.youtube.com/watch?v=IkeVMfEgSVY)
 - [Text to speech in python. Convert any text to Speech.](https://www.youtube.com/watch?v=SmvZUP1816c)
 - [Python text to image (with two lines of code)](https://www.youtube.com/watch?v=53YexsKXdnM)
-- [Python data analysis practical examples (Reading SQL/Excel, Sorting, Groupby, plotting, Matplotlib)](https://www.youtube.com/watch?v=7waZpEaS7Y8)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
