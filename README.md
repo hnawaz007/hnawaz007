@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Git and GitHub Undo Mistakes | Stash & Retreive changes | Undo Stage and commits | Roll back Commits](https://www.youtube.com/watch?v=UayyMnPr3aQ)
 - [Python Voice Assistant - Part 2 | Build Your Own Virtual Assistant in Python](https://www.youtube.com/watch?v=iXZTGCGevGk)
 - [Automate Excel reports with Python | Query database with Pandas](https://www.youtube.com/watch?v=ks4bJcwWK3o)
 - [Python Voice Assistant - Part 1 | Build Your Own Virtual Assistant in Python](https://www.youtube.com/watch?v=LLZQT9-0l_8)
 - [IBM Cognos Github integration. How to automate Cognos Deployment with GitHub.](https://www.youtube.com/watch?v=IkeVMfEgSVY)
-- [Text to speech in python. Convert any text to Speech.](https://www.youtube.com/watch?v=SmvZUP1816c)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
