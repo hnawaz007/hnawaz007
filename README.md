@@ -41,7 +41,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Git and GitHub Undo Mistakes | Stash & Retreive changes | Undo Stage and commits | Roll back Commits](https://www.youtube.com/watch?v=UayyMnPr3aQ)
+- [Git and GitHub Undo Mistakes | Stash & Retrieve changes | Undo Stage and commits | Roll back Commits](https://www.youtube.com/watch?v=UayyMnPr3aQ)
 - [Python Voice Assistant - Part 2 | Build Your Own Virtual Assistant in Python](https://www.youtube.com/watch?v=iXZTGCGevGk)
 - [Automate Excel reports with Python | Query database with Pandas](https://www.youtube.com/watch?v=ks4bJcwWK3o)
 - [Python Voice Assistant - Part 1 | Build Your Own Virtual Assistant in Python](https://www.youtube.com/watch?v=LLZQT9-0l_8)
