@@ -41,7 +41,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Exploratory Data Analysis with Python (EDA) | Descriptive Statistics | Univariate Analysis | Outlier](https://www.youtube.com/watch?v=-243Ma7OjLM)
+- [Exploratory Data Analysis with Python (EDA) | Descriptive Statistics | Univariate Analysis | Outlier](https://www.youtube.com/watch?v=y4S2gNbl9Ec)
 - [Send Automated Excel report via email | Format Pandas dataframe for excel output | Excel attachment](https://www.youtube.com/watch?v=ULwGoZg7bgQ)
 - [Send Emails using Python | HTML Formatting | HTML Tables | Emails with Attachments | HTML Templates](https://www.youtube.com/watch?v=cKsTNnVMKt8)
 - [Python Voice Assistant - Part 3 | Build Your Own Virtual Assistant in Python | Organize your Folders](https://www.youtube.com/watch?v=nyKrXXOQSZ4)
