@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Machine Learning - Python Naïve Bayes Spam Classifier Model | Classify Emails with ML Model](https://www.youtube.com/watch?v=AO3oPxoZB7M)
 - [Exploratory Data Analysis with Python (EDA) | Descriptive Statistics | Univariate Analysis | Outlier](https://www.youtube.com/watch?v=y4S2gNbl9Ec)
 - [Send Automated Excel report via email | Format Pandas dataframe for excel output | Excel attachment](https://www.youtube.com/watch?v=ULwGoZg7bgQ)
 - [Send Emails using Python | HTML Formatting | HTML Tables | Emails with Attachments | HTML Templates](https://www.youtube.com/watch?v=cKsTNnVMKt8)
 - [Python Voice Assistant - Part 3 | Build Your Own Virtual Assistant in Python | Organize your Folders](https://www.youtube.com/watch?v=nyKrXXOQSZ4)
-- [Git and GitHub Undo Mistakes | Stash & Retrieve changes | Undo Stage and commits | Roll back Commits](https://www.youtube.com/watch?v=UayyMnPr3aQ)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
