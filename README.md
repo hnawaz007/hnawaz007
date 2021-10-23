@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Machine Learning: Python Simple Linear Regression | Predict future sales | Predictive Analytics](https://www.youtube.com/watch?v=TR6vn4lZ3Mo)
 - [Machine Learning - Python Naïve Bayes Spam Classifier Model | Part 2| Classify Emails](https://www.youtube.com/watch?v=yQXZnNoyNwk)
 - [Machine Learning - Python Naïve Bayes Spam Classifier Model | Classify Emails with ML Model](https://www.youtube.com/watch?v=AO3oPxoZB7M)
 - [Exploratory Data Analysis with Python (EDA) | Descriptive Statistics | Univariate Analysis | Outlier](https://www.youtube.com/watch?v=y4S2gNbl9Ec)
 - [Send Automated Excel report via email | Format Pandas dataframe for excel output | Excel attachment](https://www.youtube.com/watch?v=ULwGoZg7bgQ)
-- [Send Emails using Python | HTML Formatting | HTML Tables | Emails with Attachments | HTML Templates](https://www.youtube.com/watch?v=cKsTNnVMKt8)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
