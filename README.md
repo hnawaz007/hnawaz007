@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Schedule Python Scripts with Windows Task Scheduler | Automate Python scripts](https://www.youtube.com/watch?v=IsuAltPOiEw)
 - [Machine Learning: Python Simple Linear Regression | Predict future sales | Predictive Analytics](https://www.youtube.com/watch?v=TR6vn4lZ3Mo)
 - [Machine Learning - Python Naïve Bayes Spam Classifier Model | Part 2| Classify Emails](https://www.youtube.com/watch?v=yQXZnNoyNwk)
 - [Machine Learning - Python Naïve Bayes Spam Classifier Model | Classify Emails with ML Model](https://www.youtube.com/watch?v=AO3oPxoZB7M)
 - [Exploratory Data Analysis with Python (EDA) | Descriptive Statistics | Univariate Analysis | Outlier](https://www.youtube.com/watch?v=y4S2gNbl9Ec)
-- [Send Automated Excel report via email | Format Pandas dataframe for excel output | Excel attachment](https://www.youtube.com/watch?v=ULwGoZg7bgQ)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
