@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to create a websites with Python | Python Flask Tutorial | Web framework | Learn Flask](https://www.youtube.com/watch?v=QLw93MMCxSg)
 - [Machine Learning: Python Multiple Linear Regression | Predict house price | Predictive Analytics](https://www.youtube.com/watch?v=ogr_oiq0zQA)
 - [Schedule Python Scripts with Windows Task Scheduler | Automate Python scripts](https://www.youtube.com/watch?v=IsuAltPOiEw)
 - [Machine Learning: Python Simple Linear Regression | Predict future sales | Predictive Analytics](https://www.youtube.com/watch?v=TR6vn4lZ3Mo)
 - [Machine Learning - Python Naïve Bayes Spam Classifier Model | Part 2| Classify Emails](https://www.youtube.com/watch?v=yQXZnNoyNwk)
-- [Machine Learning - Python Naïve Bayes Spam Classifier Model | Classify Emails with ML Model](https://www.youtube.com/watch?v=AO3oPxoZB7M)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
