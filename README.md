@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to set up Python for Data Science on Windows | Python for Beginners | Add python to Path variabl](https://www.youtube.com/watch?v=B0G-44dqHRM)
 - [Flask build data science app | deploy Machine Learning Model using Flask | Flask Predictive Analytic](https://www.youtube.com/watch?v=o38Ke6xyJo0)
 - [KNN Machine Learning Algorithm | KNN Algorithm Using Python | K Nearest Neighbor | Scikit-Learn](https://www.youtube.com/watch?v=BGYe-ZinRmA)
 - [How to create a website with Python | beginners Flask Tutorial | Web framework | Learn Flask](https://www.youtube.com/watch?v=QLw93MMCxSg)
 - [Machine Learning: Python Multiple Linear Regression | Predict house price | Predictive Analytics](https://www.youtube.com/watch?v=ogr_oiq0zQA)
-- [Schedule Python Scripts with Windows Task Scheduler | Automate Python scripts](https://www.youtube.com/watch?v=IsuAltPOiEw)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
