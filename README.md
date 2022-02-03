@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Develop a Movie Recommendation System with Python | Machine Learning | Cosine Similarity](https://www.youtube.com/watch?v=Gy8t5XIrISc)
 - [Automate Excel | How to produce beautiful, well formatted reports with Python | Pandas | XlsxWriter](https://www.youtube.com/watch?v=uCqqGsEsIL4)
 - [Flask REST API - Build a Flask REST API with Python from scratch](https://www.youtube.com/watch?v=G3lPb6mlqTA)
 - [The Beginners Guide to SQLite with Pandas | Python | Create DB | Create tables | Insert &amp; Update](https://www.youtube.com/watch?v=5LpotBtmZZs)
 - [Python Pandas Data Science Tutorial &lpar;Read CSV/Excel, add/delete columns, Filter, Groupby, Slice&rpar;](https://www.youtube.com/watch?v=-jerzfh2bS0)
-- [How to set up Python for Data Science on Windows | Python for Beginners | Add python to Path variabl](https://www.youtube.com/watch?v=B0G-44dqHRM)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
