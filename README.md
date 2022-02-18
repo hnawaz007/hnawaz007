@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Install SQL Server Express 2019 Step by Step | Express Edition | Free Software | Restore database](https://www.youtube.com/watch?v=e5mvoKuV3xs)
 - [How to install PostgreSQL  on windows | create database | restore database](https://www.youtube.com/watch?v=fjYiWXHI7Mo)
 - [How to connect to MySQL and export data from MySQL to excel | Python | Pandas | Export dataframe](https://www.youtube.com/watch?v=mKnMY2GqaGI)
 - [Develop a Movie Recommendation System with Python | Machine Learning | Cosine Similarity](https://www.youtube.com/watch?v=Gy8t5XIrISc)
 - [Automate Excel | How to produce beautiful, well formatted reports with Python | Pandas | XlsxWriter](https://www.youtube.com/watch?v=uCqqGsEsIL4)
-- [Flask REST API - Build a Flask REST API with Python from scratch](https://www.youtube.com/watch?v=G3lPb6mlqTA)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
