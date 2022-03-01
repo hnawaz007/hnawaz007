@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to deploy Machine Learning model as a Rest API? | Flask Rest API | Integrate in existing web app](https://www.youtube.com/watch?v=AZfJ8buL5II)
 - [How to build an ETL pipeline with Python | Data pipeline | Export from SQL Server to PostgreSQL](https://www.youtube.com/watch?v=dfouoh9QdUw)
 - [Install SQL Server Express 2019 Step by Step | Express Edition | Free Software | Restore database](https://www.youtube.com/watch?v=e5mvoKuV3xs)
 - [How to install PostgreSQL  on windows | create database | restore database](https://www.youtube.com/watch?v=fjYiWXHI7Mo)
 - [How to connect to MySQL and export data from MySQL to excel | Python | Pandas | Export dataframe](https://www.youtube.com/watch?v=mKnMY2GqaGI)
-- [Develop a Movie Recommendation System with Python | Machine Learning | Cosine Similarity](https://www.youtube.com/watch?v=Gy8t5XIrISc)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
