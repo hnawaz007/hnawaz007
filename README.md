@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to load reference data to database with Python ETL Pipeline | Excel to Postgres](https://www.youtube.com/watch?v=W-8tEFAWD5A)
 - [How to build and automate your Python ETL pipeline with Airflow | Data pipeline | Python](https://www.youtube.com/watch?v=eZfD6x9FJ4E)
 - [How to deploy Machine Learning model as a Rest API? | Flask Rest API | Integrate in existing web app](https://www.youtube.com/watch?v=AZfJ8buL5II)
 - [How to build an ETL pipeline with Python | Data pipeline | Export from SQL Server to PostgreSQL](https://www.youtube.com/watch?v=dfouoh9QdUw)
 - [Install SQL Server Express 2019 Step by Step | Express Edition | Free Software | Restore database](https://www.youtube.com/watch?v=e5mvoKuV3xs)
-- [How to install PostgreSQL  on windows | create database | restore database](https://www.youtube.com/watch?v=fjYiWXHI7Mo)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
