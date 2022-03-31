@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to develop a logistic regression machine learning model | Python | Machine Learning](https://www.youtube.com/watch?v=4h7sTyGgyuc)
 - [How to build ETL pipeline with Incremental Data Load with Python | Python |  ETL](https://www.youtube.com/watch?v=a_T8xRaCO60)
 - [Structured Query Language &lpar;SQL&rpar; basics | learn SQL | A step-by-step guide to SQL](https://www.youtube.com/watch?v=H4qS5j_mykc)
 - [How to load reference data to database with Python ETL Pipeline | Excel to Postgres](https://www.youtube.com/watch?v=W-8tEFAWD5A)
 - [How to build and automate your Python ETL pipeline with Airflow | Data pipeline | Python](https://www.youtube.com/watch?v=eZfD6x9FJ4E)
-- [How to deploy Machine Learning model as a Rest API? | Flask Rest API | Integrate in existing web app](https://www.youtube.com/watch?v=AZfJ8buL5II)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
