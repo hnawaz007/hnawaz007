@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Learn SQL with practical examples | SQL Tutorial for Beginners](https://www.youtube.com/watch?v=nFN7fA51AHU)
 - [Python ETL pipeline how to perform incremental data load | Source Change Detection | Python | ETL](https://www.youtube.com/watch?v=32ErvH_m_no)
 - [How to develop a logistic regression machine learning model | Python | Machine Learning](https://www.youtube.com/watch?v=4h7sTyGgyuc)
 - [How to build ETL pipeline with Incremental Data Load with Python | Python |  ETL](https://www.youtube.com/watch?v=a_T8xRaCO60)
 - [Structured Query Language &lpar;SQL&rpar; basics | learn SQL | A step-by-step guide to SQL](https://www.youtube.com/watch?v=H4qS5j_mykc)
-- [How to load reference data to database with Python ETL Pipeline | Excel to Postgres](https://www.youtube.com/watch?v=W-8tEFAWD5A)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
