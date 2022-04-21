@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to create an AWS S3 Data Lake? | AWS S3 | AWS Glue | AWS Athena](https://www.youtube.com/watch?v=KvtxdF7b_l8)
 - [how to upload on premise database data to AWS S3 | Build a Data Lake | Python](https://www.youtube.com/watch?v=2DUcz-zCwCM)
 - [Learn SQL with practical examples | SQL Tutorial for Beginners](https://www.youtube.com/watch?v=nFN7fA51AHU)
 - [Python ETL pipeline how to perform incremental data load | Source Change Detection | Python | ETL](https://www.youtube.com/watch?v=32ErvH_m_no)
 - [How to develop a logistic regression machine learning model | Python | Machine Learning](https://www.youtube.com/watch?v=4h7sTyGgyuc)
-- [How to build ETL pipeline with Incremental Data Load with Python | Python |  ETL](https://www.youtube.com/watch?v=a_T8xRaCO60)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
