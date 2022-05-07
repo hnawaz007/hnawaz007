@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AWS Redshift | How to setup a redshift cluster with external connectivity | AWS VPC](https://www.youtube.com/watch?v=s8HckCTC6aA)
 - [SQL for data Analysis | Customer Analysis with practical examples | SQL CTE and Subquery](https://www.youtube.com/watch?v=P-o01tL2myg)
 - [How to create an AWS S3 Data Lake? | AWS S3 | AWS Glue | AWS Athena](https://www.youtube.com/watch?v=KvtxdF7b_l8)
 - [how to upload on premise database data to AWS S3 | Build a Data Lake | Python](https://www.youtube.com/watch?v=2DUcz-zCwCM)
 - [Learn SQL with practical examples | SQL Tutorial for Beginners](https://www.youtube.com/watch?v=nFN7fA51AHU)
-- [Python ETL pipeline how to perform incremental data load | Source Change Detection | Python | ETL](https://www.youtube.com/watch?v=32ErvH_m_no)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
