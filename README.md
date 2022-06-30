@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to build AWS Glue ETL with Python shell |  Data pipeline | Read data from S3 and load Redshift](https://www.youtube.com/watch?v=nAWUGfjAIaA)
 - [Getting started with Dagster | Create Python ETL | Orchestrate ETL Pipelines with Dagster](https://www.youtube.com/watch?v=t8QADtYdWEI)
 - [Perform Product Sales Analysis using SQL | Track Product Metrics &amp; Performance](https://www.youtube.com/watch?v=fJpzn8nDCnw)
 - [AWS CloudFormation Step by Step Tutorial - Create VPC, Subnet, Security Group and Redshift Cluster](https://www.youtube.com/watch?v=3nsLNAZ9Zok)
 - [AWS Glue Ingest data from S3 to Redshift | ETL with AWS Glue | AWS Data Integration](https://www.youtube.com/watch?v=daiKZLtHqVY)
-- [AWS Redshift | How to setup a redshift cluster with external connectivity | AWS VPC](https://www.youtube.com/watch?v=s8HckCTC6aA)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
