@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to apply conditional formatting in Excel using Python | Automate Excel reports | XlsxWriter](https://www.youtube.com/watch?v=ZsftKq_xQqw)
 - [How to perform ETL with AWS lambda using Python | AWS | Lambda | Python | Lambda Layers](https://www.youtube.com/watch?v=cFO2-gs56d8)
 - [How to build AWS Glue ETL with Python shell |  Data pipeline | Read data from S3 and load Redshift](https://www.youtube.com/watch?v=nAWUGfjAIaA)
 - [Getting started with Dagster | Create Python ETL | Orchestrate ETL Pipelines with Dagster](https://www.youtube.com/watch?v=t8QADtYdWEI)
 - [Perform Product Sales Analysis using SQL | Track Product Metrics &amp; Performance](https://www.youtube.com/watch?v=fJpzn8nDCnw)
-- [AWS CloudFormation Step by Step Tutorial - Create VPC, Subnet, Security Group and Redshift Cluster](https://www.youtube.com/watch?v=3nsLNAZ9Zok)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
