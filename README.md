@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is Data Engineering? Overview of the Data Engineering role and responsibilities | Python | SQL](https://www.youtube.com/watch?v=fwkLcp8dbic)
 - [How to extract data from on-premise SQL Server and load it to Google&#39;s BigQuery with Airflow. | ETL](https://www.youtube.com/watch?v=Nq8Td8h_szk)
 - [Analyze AWS S3 and Redshift via Amazon Redshift Spectrum  | Join Redshift and S3 data with Spectrum](https://www.youtube.com/watch?v=p09xfO8TtVo)
 - [How to apply conditional formatting in Excel using Python | Automate Excel reports | XlsxWriter](https://www.youtube.com/watch?v=ZsftKq_xQqw)
 - [How to perform ETL with AWS lambda using Python | AWS | Lambda | Python | Lambda Layers](https://www.youtube.com/watch?v=cFO2-gs56d8)
-- [How to build AWS Glue ETL with Python shell |  Data pipeline | Read data from S3 and load Redshift](https://www.youtube.com/watch?v=nAWUGfjAIaA)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
