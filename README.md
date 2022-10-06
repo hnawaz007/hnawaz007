@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Getting started with Apache Spark / PySpark setup |  ETL with Pyspark](https://www.youtube.com/watch?v=5S8fEqTfT2I)
 - [How to perform Product Association using SQL | Market Basket Analysis | Affinity Grouping | SQL](https://www.youtube.com/watch?v=2ZR08NJLIL4)
 - [How to install Apache Airflow on Docker? | Build Custom Airflow Docker Image | Airflow | Docker](https://www.youtube.com/watch?v=t4h4vsULwFE)
 - [What is Data Engineering? Overview of the Data Engineering role and responsibilities | Python | SQL](https://www.youtube.com/watch?v=fwkLcp8dbic)
 - [How to extract data from on-premise SQL Server and load it to Google&#39;s BigQuery with Airflow. | ETL](https://www.youtube.com/watch?v=Nq8Td8h_szk)
-- [Analyze AWS S3 and Redshift via Amazon Redshift Spectrum  | Join Redshift and S3 data with Spectrum](https://www.youtube.com/watch?v=p09xfO8TtVo)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
