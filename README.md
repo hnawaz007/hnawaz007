@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [October 17, 2022](https://www.youtube.com/watch?v=Ob3BVvOEKBY)
 - [What is Power BI? Power BI Architecture and Ecosystem Overview](https://www.youtube.com/watch?v=4pKYrzJiH5I)
 - [Getting started with Apache Spark / PySpark setup |  ETL with Pyspark](https://www.youtube.com/watch?v=5S8fEqTfT2I)
 - [How to perform Product Association using SQL | Market Basket Analysis | Affinity Grouping | SQL](https://www.youtube.com/watch?v=2ZR08NJLIL4)
 - [How to install Apache Airflow on Docker? | Build Custom Airflow Docker Image | Airflow | Docker](https://www.youtube.com/watch?v=t4h4vsULwFE)
-- [What is Data Engineering? Overview of the Data Engineering role and responsibilities | Python | SQL](https://www.youtube.com/watch?v=fwkLcp8dbic)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
