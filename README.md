@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Develop a Power BI Data Model | Dimensional Modeling concepts and practices](https://www.youtube.com/watch?v=_3FG2IdGb_w)
 - [How to use PySpark DataFrame API? | DataFrame Operations on Spark](https://www.youtube.com/watch?v=DnUn9u_q5LQ)
 - [October 17, 2022](https://www.youtube.com/watch?v=Ob3BVvOEKBY)
 - [What is Power BI? Power BI Architecture and Ecosystem Overview](https://www.youtube.com/watch?v=4pKYrzJiH5I)
 - [Getting started with Apache Spark / PySpark setup |  ETL with Pyspark](https://www.youtube.com/watch?v=5S8fEqTfT2I)
-- [How to perform Product Association using SQL | Market Basket Analysis | Affinity Grouping | SQL](https://www.youtube.com/watch?v=2ZR08NJLIL4)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
