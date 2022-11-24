@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to connect to a database using Python |  Python Connect to SQL Server | Query database](https://www.youtube.com/watch?v=zdezE6TWSQQ)
 - [How to create and activate Python virtual environment&lpar;s&rpar; on Windows? | Python Virtual Environments](https://www.youtube.com/watch?v=VAsZx2ndnD8)
 - [Develop a Power BI Data Model | Dimensional Modeling concepts and practices](https://www.youtube.com/watch?v=_3FG2IdGb_w)
 - [How to use PySpark DataFrame API? | DataFrame Operations on Spark](https://www.youtube.com/watch?v=DnUn9u_q5LQ)
 - [October 17, 2022](https://www.youtube.com/watch?v=Ob3BVvOEKBY)
-- [What is Power BI? Power BI Architecture and Ecosystem Overview](https://www.youtube.com/watch?v=4pKYrzJiH5I)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
