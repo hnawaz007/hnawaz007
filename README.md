@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why you should learn docker now | Development containers | Docker](https://www.youtube.com/watch?v=NhAhCyHYnU0)
 - [How to integrate data quality test in Python ETL pipeline | Test Data Pipelines | Data Quality](https://www.youtube.com/watch?v=7FPksG-LYOA)
 - [How to test your Python ETL pipelines | Data pipeline | Pytest](https://www.youtube.com/watch?v=fpu2TFY6c4s)
 - [How to build data pipelines with Airbyte | Modern Data Stack with Airbyte | Open Source | Airbyte](https://www.youtube.com/watch?v=2FvMa7vaxDY)
 - [How to process large dataset with pandas | Avoid out of memory issues while loading data into pandas](https://www.youtube.com/watch?v=8Awk8CpfeGc)
-- [How to Build ETL Pipelines with PySpark? | Build ETL pipelines on distributed platform | Spark | ETL](https://www.youtube.com/watch?v=J6BSx-gNw7E)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
