@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to perform Data Transformation with Power BI | Power BI Data Modeling | Part 3](https://www.youtube.com/watch?v=FOxFvcWQ4Nc)
 - [How to generate Data Quality Report with Pytest? | Data Quality | Data Quality reports](https://www.youtube.com/watch?v=Sv6QWF7J63k)
 - [Why you should learn docker now | Development containers | Docker](https://www.youtube.com/watch?v=NhAhCyHYnU0)
 - [How to integrate data quality test in Python ETL pipeline | Test Data Pipelines | Data Quality](https://www.youtube.com/watch?v=7FPksG-LYOA)
 - [How to test your Python ETL pipelines | Data pipeline | Pytest](https://www.youtube.com/watch?v=fpu2TFY6c4s)
-- [How to build data pipelines with Airbyte | Modern Data Stack with Airbyte | Open Source | Airbyte](https://www.youtube.com/watch?v=2FvMa7vaxDY)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
