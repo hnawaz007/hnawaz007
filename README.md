@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to automate Data Analysis with Python? | Automate Excel | Automate Data Analysis | Python](https://www.youtube.com/watch?v=esaaaTJu574)
 - [What is stream processing? #etl](https://www.youtube.com/watch?v=MOFEPpIrEZk)
 - [What is Stream Processing? | Batch vs Stream Processing | Data Pipelines | Real-Time Data Processing](https://www.youtube.com/watch?v=ya4298V8Mqo)
 - [How to perform Data Transformation with Power BI | Power BI Data Modeling | Part 3](https://www.youtube.com/watch?v=FOxFvcWQ4Nc)
 - [How to generate Data Quality Report with Pytest? | Data Quality | Data Quality reports](https://www.youtube.com/watch?v=Sv6QWF7J63k)
-- [Why you should learn docker now | Development containers | Docker](https://www.youtube.com/watch?v=NhAhCyHYnU0)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
