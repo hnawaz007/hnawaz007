@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to schedule your Jupyter Notebooks? | Python | Jupyter Lab | Schedule](https://www.youtube.com/watch?v=iOj1QbT5bLA)
 - [Set up Debezium, Apache Kafka and Postgres for real time Data Streaming | Real Time ETL | ETL](https://www.youtube.com/watch?v=9yP_75OBWis)
 - [How to crest Python virtual environment. #python #virtualentertainment #pip](https://www.youtube.com/watch?v=Vf7D5ydLPNg)
 - [How to automate Data Analysis with Python? | Automate Excel | Automate Data Analysis | Python](https://www.youtube.com/watch?v=esaaaTJu574)
 - [What is stream processing? #etl](https://www.youtube.com/watch?v=MOFEPpIrEZk)
-- [What is Stream Processing? | Batch vs Stream Processing | Data Pipelines | Real-Time Data Processing](https://www.youtube.com/watch?v=ya4298V8Mqo)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
