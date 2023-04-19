@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to test your Data Pipelines with Great Expectations](https://www.youtube.com/watch?v=7UQ91Ib7PtU)
 - [What is Data Build Tool &lpar;dbt&rpar;? | Create your first dbt project | Transform your data with SQL](https://www.youtube.com/watch?v=gH1w4OIgXj4)
 - [How to Stream Data using Apache Kafka &amp; Debezium from Postgres | Real Time ETL | ETL | Part 2](https://www.youtube.com/watch?v=xh9rVSqNHMI)
 - [How to schedule your Jupyter Notebooks? | Python | Jupyter Lab | Schedule](https://www.youtube.com/watch?v=iOj1QbT5bLA)
 - [Set up Debezium, Apache Kafka and Postgres for real time Data Streaming | Real Time ETL | ETL](https://www.youtube.com/watch?v=9yP_75OBWis)
-- [How to crest Python virtual environment. #python #virtualentertainment #pip](https://www.youtube.com/watch?v=Vf7D5ydLPNg)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
