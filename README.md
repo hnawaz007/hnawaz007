@@ -41,7 +41,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Manager you data pipelines with Dagster |  Software defined assets | IO Managers | Updated project](https://www.youtube.com/watch?v=f1TbVGdhmYg)
+- [Manage you data pipelines with Dagster |  Software defined assets | IO Managers | Updated project](https://www.youtube.com/watch?v=f1TbVGdhmYg)
 - [How to build on-premise Data Lake? | Build your own Data Lake | Open Source Tools | On-Premise](https://www.youtube.com/watch?v=DLRiUs1EvhM)
 - [Airflow Installation &amp; Configurations | Email set up | Notifications | Orchestrator vs Execution](https://www.youtube.com/watch?v=In7zwp0FDX4)
 - [How to test your Data Pipelines with Great Expectations](https://www.youtube.com/watch?v=7UQ91Ib7PtU)
