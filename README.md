@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Orchestrate SQL Data Pipelines with Airflow | Schedule SQL scripts with Airlfow | ETL with SQL](https://www.youtube.com/watch?v=glzj7p7Yrrs)
 - [Transform data with DBT | Stage raw tables | Define Schema &amp; Source yml | Install &amp; use DBT packages](https://www.youtube.com/watch?v=92EsczD7O-Y)
 - [Power BI Series Data Analysis End to End Project |  Create Dashboard | Sales Insigts | Full Project](https://www.youtube.com/watch?v=48yE1d2vOcY)
 - [Build Local ChatGPT with your OWN document | Chat with PDF, TXT and CSV File | Quick Setup Guide](https://www.youtube.com/watch?v=lvTUZ9bL04s)
 - [Build your own private chatgpt | Run Large Language Model &lpar;LLM&rpar; | GPT4ALL | Local Private Chatbot](https://www.youtube.com/watch?v=yTa1sPrfTDc)
-- [Build Datawarehouse with dbt using Kimball dimensional model | dbt models | Custom Schema | Macros](https://www.youtube.com/watch?v=cK617PcokS0)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
