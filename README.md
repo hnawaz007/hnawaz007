@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Kafka Real-Time data analysis with Streamlit | Kafka | Data Streaming | Clickhouse | Real-Time](https://www.youtube.com/watch?v=YdEciRAXp_A)
 - [Set up Clickhouse database for Kafka Streaming | Data Steraming | OLAP database | Clickhouse](https://www.youtube.com/watch?v=MTtx1tTpsKg)
 - [Dagster Orchestrate Jupyter Notebook | Jupyter Notebook | Schedule Notebooks with Dagster](https://www.youtube.com/watch?v=0BgcFTfyl-E)
 - [How to install Dagster on Docker? | Build Custom Dagster Docker Image | Dagster | Docker](https://www.youtube.com/watch?v=QGGxIEwJfxU)
 - [dbt build a Star Schea using dimensional modeling | data modeling with dbt | build dimensions &amp; fact](https://www.youtube.com/watch?v=77qbJw8QzSE)
-- [Orchestrate SQL Data Pipelines with Airflow | Schedule SQL scripts with Airlfow | ETL with SQL](https://www.youtube.com/watch?v=glzj7p7Yrrs)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
