@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [dbt Power User extension for VS Code | Accelerate your dbt development like Pros | dbt](https://www.youtube.com/watch?v=whwHNdxpqXE)
 - [The difference between row vs columnar databases #shorts #databases #olap](https://www.youtube.com/watch?v=Z4Y01thgZgI)
 - [Kafka Real-Time data analysis with Streamlit | Kafka | Data Streaming | Clickhouse | Real-Time](https://www.youtube.com/watch?v=YdEciRAXp_A)
 - [Set up Clickhouse database for Kafka Streaming | Data Steraming | OLAP database | Clickhouse](https://www.youtube.com/watch?v=MTtx1tTpsKg)
 - [Dagster Orchestrate Jupyter Notebook | Jupyter Notebook | Schedule Notebooks with Dagster](https://www.youtube.com/watch?v=0BgcFTfyl-E)
-- [How to install Dagster on Docker? | Build Custom Dagster Docker Image | Dagster | Docker](https://www.youtube.com/watch?v=QGGxIEwJfxU)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
