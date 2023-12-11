@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning AWS and Python...
 - 👯 I’m looking to collaborate with content creaters, Analytics, AWS, Data Analysis, IBM Cognos, Python, Power BI, SQL, SQL Server,...
 - 💬 I Vlog about recent projects/learning on YouTube.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I have been to 16 National Parks and intend to make it to top 30 on my list. When I was younger, I wanted to be an archaeologist because of the Indiana Jones movies. 
+- 🥅 2031 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I have been to 18 National Parks and intend to make it to top 30 on my list. When I was younger, I wanted to be an archaeologist because of the Indiana Jones movies. 
 
 ### Languages and Tools:
 
