@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to navigate the channel and find content on this channel? | Channel&#39;s Website |](https://www.youtube.com/watch?v=pjiv6j7tyxY)
 - [Polars a multi-threaded lightning fast Python Library | The next Big Python Data Science Library](https://www.youtube.com/watch?v=d5VfReOaHXs)
 - [Data Lakehouse workflow Apache Iceberg and Nessie | How Iceberg works | Nessie Branch &amp; Merge](https://www.youtube.com/watch?v=vnNHDylGtEk)
 - [Create on premise Data Lakehouse with Apache Iceberg | Nessie | MinIO | Lakehouse](https://www.youtube.com/watch?v=ihSpLg44JBw)
 - [Orchestrate Airbyte &amp; dbt with Dagster | Orchestrate Modern Data Stack with Dagster | Airbyte | dbt](https://www.youtube.com/watch?v=8340_gU_Zy0)
-- [dbt Power User extension for VS Code | Accelerate your dbt development like Pros | dbt](https://www.youtube.com/watch?v=whwHNdxpqXE)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
