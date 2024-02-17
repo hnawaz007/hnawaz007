@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to run LLM Locally? | Integrate LLM in your APP | Build with LLM | Ollama | Streamlit](https://www.youtube.com/watch?v=CE9umy2NlhE)
 - [How to create Great Epxectations suite? Quality Checks for Data Pipelines | Data Quality](https://www.youtube.com/watch?v=UTIvGxNbg5w)
 - [How to navigate the channel and find content on this channel? | Channel&#39;s Website |](https://www.youtube.com/watch?v=pjiv6j7tyxY)
 - [Polars a multi-threaded lightning fast Python Library | The next Big Python Data Science Library](https://www.youtube.com/watch?v=d5VfReOaHXs)
 - [Data Lakehouse workflow Apache Iceberg and Nessie | How Iceberg works | Nessie Branch &amp; Merge](https://www.youtube.com/watch?v=vnNHDylGtEk)
-- [Create on premise Data Lakehouse with Apache Iceberg | Nessie | MinIO | Lakehouse](https://www.youtube.com/watch?v=ihSpLg44JBw)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
