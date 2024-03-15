@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [how to build data pipelines with data load tool &lpar;dlt&rpar; | data pipeline | etl | Python](https://www.youtube.com/watch?v=niml1EsMy9o)
 - [How to integrate Great Expecation Data Quality tests in Airflow? | Data pipeline | Data Quality](https://www.youtube.com/watch?v=WAgbFrHUk50)
 - [Build a custom private chatgpt without a single line of code |  Custom LLM | Open Source LLM](https://www.youtube.com/watch?v=YUYZd71hg3w)
 - [How to run LLM Locally? | Integrate LLM in your APP | Build with LLM | Ollama | Streamlit](https://www.youtube.com/watch?v=CE9umy2NlhE)
 - [How to create Great Epxectations suite? Quality Checks for Data Pipelines | Data Quality](https://www.youtube.com/watch?v=UTIvGxNbg5w)
-- [How to navigate the channel and find content on this channel? | Channel&#39;s Website |](https://www.youtube.com/watch?v=pjiv6j7tyxY)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
