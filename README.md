@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to perform ETL Incremental Data Load using DLT | Data Load Tool | ETL | Python](https://www.youtube.com/watch?v=Tws7C2H2k7Q)
 - [How to connect to Postgres using Python | Query SQL Database | Pandas | Postgres](https://www.youtube.com/watch?v=h-u1ML-OWok)
 - [data load tool &lpar;dlt&rpar; build database data pipeline | verified source | data pipeline | etl | Python](https://www.youtube.com/watch?v=y9ooIJ7qibU)
 - [how to build data pipelines with data load tool &lpar;dlt&rpar; | data pipeline | etl | Python](https://www.youtube.com/watch?v=niml1EsMy9o)
 - [How to integrate Great Expecation Data Quality tests in Airflow? | Data pipeline | Data Quality](https://www.youtube.com/watch?v=WAgbFrHUk50)
-- [Build a custom private chatgpt without a single line of code |  Custom LLM | Open Source LLM](https://www.youtube.com/watch?v=YUYZd71hg3w)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
