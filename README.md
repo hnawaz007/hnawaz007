@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to add dbt seed to dbt project &amp; load reference data | dbt seeds | load data to Datawarehouse](https://www.youtube.com/watch?v=tJD3w29Dn5M)
 - [ETL Incremental Data Load Approach Using DLT | Source Change Detection | Load New &amp; Change Data](https://www.youtube.com/watch?v=k6E17WxZBJk)
 - [How to perform ETL Incremental Data Load using DLT | Data Load Tool | ETL | Python](https://www.youtube.com/watch?v=Tws7C2H2k7Q)
 - [How to connect to Postgres using Python | Query SQL Database | Pandas | Postgres](https://www.youtube.com/watch?v=h-u1ML-OWok)
 - [data load tool &lpar;dlt&rpar; build database data pipeline | verified source | data pipeline | etl | Python](https://www.youtube.com/watch?v=y9ooIJ7qibU)
-- [how to build data pipelines with data load tool &lpar;dlt&rpar; | data pipeline | etl | Python](https://www.youtube.com/watch?v=niml1EsMy9o)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
