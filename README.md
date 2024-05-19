@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to integrtae Pandas AI with local LLM using Ollama? | Private &amp; Free | Ollama | AI | llama3](https://www.youtube.com/watch?v=vCoUZBhYzHA)
 - [Exciting new data observability tool for dbt | dbt native | Monitor dbt runs | data quality | dbt](https://www.youtube.com/watch?v=Yt9mTan-vls)
 - [How to add dbt seed to dbt project &amp; load reference data | dbt seeds | load data to Datawarehouse](https://www.youtube.com/watch?v=tJD3w29Dn5M)
 - [ETL Incremental Data Load Approach Using DLT | Source Change Detection | Load New &amp; Change Data](https://www.youtube.com/watch?v=k6E17WxZBJk)
 - [How to perform ETL Incremental Data Load using DLT | Data Load Tool | ETL | Python](https://www.youtube.com/watch?v=Tws7C2H2k7Q)
-- [How to connect to Postgres using Python | Query SQL Database | Pandas | Postgres](https://www.youtube.com/watch?v=h-u1ML-OWok)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
