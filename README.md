@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Real time ETL: Integrate Kafka Data Stream with a Data Lake | Kafka | Data Stream | Data Lake](https://www.youtube.com/watch?v=j_dEUpV9sCo)
 - [How to integrtae Pandas AI with local LLM using Ollama? | Private &amp; Free | Ollama | AI | llama3](https://www.youtube.com/watch?v=vCoUZBhYzHA)
 - [Exciting new data observability tool for dbt | dbt native | Monitor dbt runs | data quality | dbt](https://www.youtube.com/watch?v=Yt9mTan-vls)
 - [How to add dbt seed to dbt project &amp; load reference data | dbt seeds | load data to Datawarehouse](https://www.youtube.com/watch?v=tJD3w29Dn5M)
 - [ETL Incremental Data Load Approach Using DLT | Source Change Detection | Load New &amp; Change Data](https://www.youtube.com/watch?v=k6E17WxZBJk)
-- [How to perform ETL Incremental Data Load using DLT | Data Load Tool | ETL | Python](https://www.youtube.com/watch?v=Tws7C2H2k7Q)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
