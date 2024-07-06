@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [NLP &amp; AI database integration | Get Insights from database using NLP | Chat with database | AI | NLP](https://www.youtube.com/watch?v=7QI7ZCKvr5w)
 - [How to integrate api data using python &amp; dlt | API | Data Load Tool | ETL | Python | Postgres](https://www.youtube.com/watch?v=rGZV1HXwmPM)
 - [We put Pandas, Polars, and DuckDB to the test! which comes out on top? | Data Tools](https://www.youtube.com/watch?v=XB56YM79rHw)
 - [Transform data lake to data lakehouse using Apache Iceberg | Real time ETL | Kafka | Data Lake](https://www.youtube.com/watch?v=w3-rc-g2ZCE)
 - [Configure &amp; run Elementary data test in dbt | Data Tests | DBT Tests | Data Observability | P2](https://www.youtube.com/watch?v=Nlx8ecV-7o8)
-- [Real time ETL: Integrate Kafka Data Stream with a Data Lake | Kafka | Data Stream | Data Lake](https://www.youtube.com/watch?v=j_dEUpV9sCo)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
