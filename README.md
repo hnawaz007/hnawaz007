@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [how to use manage slowly changing dimensions with dlt | Python ETL | SCD Type 2](https://www.youtube.com/watch?v=eFNvYf1D6Aw)
 - [build a rag app using ollama and langchain](https://www.youtube.com/watch?v=Ii4ouKEUgz4)
 - [how to use dbt snapshot to manage slowly changing dimensions](https://www.youtube.com/watch?v=caR5S07YJ7Y)
 - [Run AI Locally fast &amp; secure on your machine with GPU upgrade | Host your AI](https://www.youtube.com/watch?v=J3HR6Ds2LY8)
 - [NLP &amp; AI database integration | Get Insights from database using NLP | Chat with database | AI | NLP](https://www.youtube.com/watch?v=7QI7ZCKvr5w)
-- [How to integrate api data using python &amp; dlt | API | Data Load Tool | ETL | Python | Postgres](https://www.youtube.com/watch?v=rGZV1HXwmPM)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
