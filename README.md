@@ -41,7 +41,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [how to use manage slowly changing dimensions with dlt | Python ETL | SCD Type 2](https://www.youtube.com/watch?v=eFNvYf1D6Aw)
+- [how to manage slowly changing dimensions with dlt | Python ETL | SCD Type 2](https://www.youtube.com/watch?v=eFNvYf1D6Aw)
 - [build a rag app using ollama and langchain](https://www.youtube.com/watch?v=Ii4ouKEUgz4)
 - [how to use dbt snapshot to manage slowly changing dimensions](https://www.youtube.com/watch?v=caR5S07YJ7Y)
 - [Run AI Locally fast &amp; secure on your machine with GPU upgrade | Host your AI](https://www.youtube.com/watch?v=J3HR6Ds2LY8)
