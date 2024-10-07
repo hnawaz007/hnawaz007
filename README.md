@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [build a data pond using duckdb and dbt | dlt and postgres](https://www.youtube.com/watch?v=7y8TGmhlSCI)
 - [Document your database using AI | Document dbt using LLM | Open Source](https://www.youtube.com/watch?v=LihXUWz_wbU)
 - [how to manage slowly changing dimensions with dlt | Python ETL | SCD Type 2](https://www.youtube.com/watch?v=eFNvYf1D6Aw)
 - [build a rag app using ollama and langchain](https://www.youtube.com/watch?v=Ii4ouKEUgz4)
 - [how to use dbt snapshot to manage slowly changing dimensions](https://www.youtube.com/watch?v=caR5S07YJ7Y)
-- [Run AI Locally fast &amp; secure on your machine with GPU upgrade | Host your AI](https://www.youtube.com/watch?v=J3HR6Ds2LY8)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
