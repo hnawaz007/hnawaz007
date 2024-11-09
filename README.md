@@ -41,7 +41,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [how to orchestrate data load tool using Dagster](https://www.youtube.com/watch?v=Mk81kYNPYf8)
+- [how to orchestrate data load tool using Dagster | dlt | ETL | Dagster](https://www.youtube.com/watch?v=Mk81kYNPYf8)
 - [how to orchestrate a dbt project using Airflow | Airflow | dbt | ETL](https://www.youtube.com/watch?v=7Jz-k4IiB_8)
 - [build a data pond using duckdb and dbt | dlt and postgres](https://www.youtube.com/watch?v=7y8TGmhlSCI)
 - [Document your database using AI | Document dbt using LLM | Open Source](https://www.youtube.com/watch?v=LihXUWz_wbU)
