@@ -41,7 +41,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Integration dbt in Airbyte for ELT | Perform ELT using Airbyte and dbt | ETL | dbt | Airbyte](https://www.youtube.com/watch?v=YejQxYe0kAE)
+- [How to Integrate dbt in Airbyte for ELT | Perform ELT using Airbyte and dbt | ETL | dbt | Airbyte](https://www.youtube.com/watch?v=YejQxYe0kAE)
 - [how to orchestrate data load tool using Dagster | dlt | ETL | Dagster](https://www.youtube.com/watch?v=Mk81kYNPYf8)
 - [how to orchestrate a dbt project using Airflow | Airflow | dbt | ETL](https://www.youtube.com/watch?v=7Jz-k4IiB_8)
 - [build a data pond using duckdb and dbt | dlt and postgres](https://www.youtube.com/watch?v=7y8TGmhlSCI)
