@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build optical character recognition &lpar;OCR&rpar; using LLM | Ollama | Vision LLM | Open Source](https://www.youtube.com/watch?v=Huy-Gn4RtGQ)
 - [how to install Airbyte via command line | Open Source | ETL](https://www.youtube.com/watch?v=Ryr97YYlARY)
 - [What is LangChain? Explore LangChain framework with examples | LLM | Ollama | AI Agents | Chains](https://www.youtube.com/watch?v=mqI3So_8S88)
 - [how to install Airflow on Kubernetes | Run Airlfow on Kubernetes cluster locally](https://www.youtube.com/watch?v=ueo__msW2Os)
 - [Build an end to end data lake etl pipeline | Airflow | Iceberg | dbt | Trino | Postgres](https://www.youtube.com/watch?v=gd66sweCigk)
-- [Build a data lake Apache Iceberg and Apache Arrow | Build Data Lake | Open Source Tools | On-Premise](https://www.youtube.com/watch?v=9M01qD25okU)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
