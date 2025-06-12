@@ -41,7 +41,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [What is AI Agent? #shorts](https://www.youtube.com/shorts/4e05cP-CDPE)
+- [What is AI Agent? #shorts](https://www.youtube.com/watch?v=4e05cP-CDPE)
 - [How to create your first AI Agent? | AI Agent | LLM | Anthropic | Claude | LangChain](https://www.youtube.com/watch?v=Q8DsK_QNY6g)
 - [Build optical character recognition &lpar;OCR&rpar; using LLM | Ollama | Vision LLM | Open Source](https://www.youtube.com/watch?v=Huy-Gn4RtGQ)
 - [how to install Airbyte via command line | Open Source | ETL](https://www.youtube.com/watch?v=Ryr97YYlARY)
