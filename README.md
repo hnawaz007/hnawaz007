@@ -41,7 +41,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Run n8n locally | Build Data Analysis AI Agent | Open Source](https://www.youtube.com/watch?v=jWmNgFzYW6g)
+- [Build a Data Analysis AI Agent with n8n and Docker &lpar;Step-by-Step Tutorial&rpar;](https://www.youtube.com/watch?v=jWmNgFzYW6g)
 - [Build an End-to-End ETL Pipeline Using open source stack; MinIO, Airbyte, dbt, and Postgres](https://www.youtube.com/watch?v=nbkrbPFSppQ)
 - [What is AI Agent? #shorts](https://www.youtube.com/shorts/4e05cP-CDPE)
 - [How to create your first AI Agent? | AI Agent | LLM | Anthropic | Claude | LangChain](https://www.youtube.com/watch?v=Q8DsK_QNY6g)
