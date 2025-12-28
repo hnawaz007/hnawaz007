@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build a Fully Local AI Voice Assistant &lpar;Speech-to-Text + TTS&rpar;](https://www.youtube.com/watch?v=2IffgzB8USw)
 - [Build a local AI Agent using n8n and Ollama | Open Source | Self-hosted | Ollama | AI](https://www.youtube.com/watch?v=qil5iBwd0IA)
 - [speech to text using locall whisper model](https://www.youtube.com/watch?v=qcrm1B1Gcn8)
 - [Build a Data Analysis AI Agent with n8n and Docker &lpar;Step-by-Step Tutorial&rpar;](https://www.youtube.com/watch?v=jWmNgFzYW6g)
 - [Build an End-to-End ETL Pipeline Using open source stack; MinIO, Airbyte, dbt, and Postgres](https://www.youtube.com/watch?v=nbkrbPFSppQ)
-- [What is AI Agent? #shorts](https://www.youtube.com/shorts/4e05cP-CDPE)
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
